@@ -1,0 +1,2 @@
+Main-Class: de.marmont.training.Main
+Class-Path: lib/commons-collections4-4.4.jar
